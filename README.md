@@ -15,6 +15,8 @@ Sensor module → Arduino UNO → Python program → .txt metadata
 
 Statistical data is tracked and stored for every file in the "Metadata" folder in Tracking.txt.
 
+## CODE
+
 
 ## FUTURE UPDATES 
 
