@@ -130,6 +130,10 @@ for filename in filter(lambda p: p.endswith(".csv"), os.listdir(path)):
         webbrowser.open(figure_filename)
 ```
 
+## FEATURES
+
+- Statistical tracking data for metadata files.
+
 ## FUTURE UPDATES 
 
 - Sorting and visualizing Pyduino sensor .txt metadata.
