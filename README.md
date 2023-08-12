@@ -9,7 +9,7 @@
   </p>
 </div>
 
-## PROCESS
+## PROCESS THEORY
 
 Sensor module → Arduino UNO → Python program → .csv data → .txt metadata 
 
