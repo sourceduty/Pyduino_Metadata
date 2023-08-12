@@ -17,7 +17,7 @@ The .txt metadata files are stored in the "Metadata" folder. Statistical data fo
 
 ## CODE
 
-# ARDUINO
+### ARDUINO
 
 ```
 #define sensorPower 2
@@ -54,7 +54,7 @@ int readSensor() {
   return val;             // send current reading
 ```
 
-# PYTHON
+### PYTHON
 
 Save Arduino sensor module serial data in real-time to a .csv file with Python.
 
