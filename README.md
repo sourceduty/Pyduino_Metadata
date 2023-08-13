@@ -60,6 +60,8 @@ Save Arduino sensor module serial data in real-time to a .csv file with Python.
 
 ```
 import serial
+import time
+import csv
 
 ser = serial.Serial('COM3')
 ser.flushInput()
